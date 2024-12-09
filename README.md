@@ -3,7 +3,7 @@
 Please read the full README
 
 ## Overview
-I have basic Student and Teacher materials for CI/CD lesson. I have put some significant effort into making this and I have more but I want to see first if this is something that you are looking for.
+I have prepared basic Student and Teacher materials for CI/CD lesson. I have put significant effort into making this and I have more but I want to see first if this is something that you are looking for.
 
 
 ## Teaching Materials Structure
@@ -15,4 +15,4 @@ I have basic Student and Teacher materials for CI/CD lesson. I have put some sig
 
 ## Mock lesson:
 
-If we schedule the mock lesson, I will prepare the full materials and Slideshow presentation.
+If we schedule the mock lesson, I will prepare the rest of the materials and Slideshow presentation.
